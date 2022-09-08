@@ -1,1 +1,1 @@
-# Arduino-Rubik-s-Cube-Sovler-With-Python-Color-Detection
+Rubik's cube solver using Arduino
